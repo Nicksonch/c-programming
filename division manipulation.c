@@ -1,6 +1,6 @@
 /*Arithmetic Operator division*/
 #include <stdio.h>
-int main ()
+int main()
 {
 int a, b, divide;
 printf("\n enter A:\t");
